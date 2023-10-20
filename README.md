@@ -193,7 +193,7 @@ We also have 4 legacy certifications dating back to our 2015 curriculum, which a
 
 #### [(New) Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
 
-- [Write Your First Code Using C#](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#write-your-first-code-using-c-sharp)
+- [Write your First Code using C#](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#write-your-first-code-using-c-sharp)
 - [Create and Run Simple C# Console Applications](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#create-and-run-simple-c-sharp-console-applications)
 - [Add Logic to C# Console Applications](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#add-logic-to-c-sharp-console-applications)
 - [Work with Variable Data in C# Console Applications](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#work-with-variable-data-in-c-sharp-console-applications)
